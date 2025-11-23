@@ -3,8 +3,9 @@ Este videojuego es una práctica de clase del curso GECEGS en Desarrollo de Vide
 El objetivo principal es aplicar conceptos de desarrollo en Unity 2D, incluyendo mecánicas de plataformas, puntuación, enemigos y recolección de objetos.
 
 Historia
-Hongui, una pequeña seta curiosa, deja su hogar seguro para explorar el Bosque Brillante y recolectar diamantes mágicos.
-En su camino deberá esquivar águilas, ranas y caracoles mientras demuestra que, aunque seas pequeño, la valentía puede llevarte a grandes aventuras.
+Eres un caballero obsesionado con el oro y por hilarantes giros del destino acabaste perdiendo la cabeza bajo una guillotina, pero eso nunca freno tu
+obsesión por el oro, por eso, aun despues de convertirte en un dullahan (caballero sin cabeza), sigues en la busca de un tesoro que te satisfaga, y ahora
+has acabado en una cueva secreta, llena de cofres, enemigos y trampas, encuentra los tesoros y evita los obstáculos
 
 Mecánicas
 Sistema de daño: Los enemigos causan daño al entrar en contacto con nuestro personaje.
